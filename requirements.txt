@@ -1,0 +1,9 @@
+pyodbc
+wtforms
+matplotlib
+seaborn
+scikit-learn
+numpy
+pandas
+stanfordnlp
+Flask==1.1.1

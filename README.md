@@ -50,7 +50,7 @@ Complaint: A class representing a complaint.<br />
 ## Running the Application
 To run the application, run python main.py in the terminal.
 
-## Usage
+## Usage in elaboration
 When the application is running, navigate to http://localhost:5000 in a web browser to access the web application.
 Firstly, the application is designed to be run in a Python environment, so you will need to have Python installed on your machine.<br />
 Additionally, you will need to install the required Python packages specified in the requirements.txt file. <br />

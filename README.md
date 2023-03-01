@@ -53,7 +53,7 @@ Complaint: A class representing a complaint.<br />
 To run the application, run python main.py in the terminal.
 
 ## Usage in elaboration
-When the application is running, navigate to http://localhost:5000 in a web browser to access the web application.
+When the application is running, navigate to http://localhost:5000 in a web browser to access the web application.<br />
 Firstly, the application is designed to be run in a Python environment, so you will need to have Python installed on your machine.<br />
 Additionally, you will need to install the required Python packages specified in the requirements.txt file. <br />
 You can install these packages by running the command "pip install -r requirements.txt" in your terminal.<br />
@@ -74,8 +74,8 @@ If the form is valid, the application will store the complaint data in the datab
 The complaint summary page displays a table of all the complaints that have been entered into the system,<br />
 along with some summary statistics.<br />
 <br />
-You can click on the headers of the table to sort the data by different columns. Additionally, <br />
-you can filter the table by department, status, or subject using the dropdown menus at the top of the page.
+You can click on the headers of the table to sort the data by different columns. <br />
+Additionally, you can filter the table by department, status, or subject using the dropdown menus at the top of the page.
 
 Finally, the application includes a classification feature that allows you to classify the complaints based on their details. <br />
 To use this feature, you will need to first train a classifier using the train_classifier.py file. <br />
